@@ -1,7 +1,7 @@
 dependencies:
   display_component:
-    git: https://github.com/Ice-Ittikorn/display.git
+    git: https://github.com/Job-67/display_component.git
   sensor_component:
-    git: https://github.com/Suixay1412/components-sensor.git
+    git: https://github.com/csongph/components-sensor.git
   led_component:
     git: https://github.com/016Rusneeda/LED.git
